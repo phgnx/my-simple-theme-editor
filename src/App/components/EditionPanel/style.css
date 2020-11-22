@@ -1,0 +1,10 @@
+.error {
+  color: #db2269;
+  font-size: 1em;
+  display: inline;
+}
+.form {
+  padding-left: 15px;
+  border-left: 1px solid grey;
+  margin-left: 5px;
+}
